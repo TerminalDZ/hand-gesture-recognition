@@ -16,7 +16,7 @@
 
 ## 📷 Preview
 
-![Hand Gesture Recognition](https://i.ibb.co/placeholder-image/hand-gesture-demo.jpg)
+![Hand Gesture Recognition](./hand-gesture-demo.jpg)
 
 ## ✨ Features
 
